@@ -2,6 +2,8 @@
 
 I'm currently working on building up my personal site while brushing the rust off my coding skills<br>I'm looking for help with skilling up on TypeScript<br>I'm currently learning about React server components
 
+[valonintech.dev](https://valonintech.dev)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valon-loshaj-5496861a7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/cloud-trooper-mdt)
