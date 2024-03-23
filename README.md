@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-I'm currently working on building up my personal site while brushing the rust off my coding skills<br>I'm looking for help with skilling up on TypeScript<br>I'm currently learning about React server components
+🛠 **Current Project: jbook** - Working on a cool multi-package developer tool called jbook. It's all about tying together a CLI, local API, and a React-based client app to simplify code documentation. I'm getting my hands dirty with CLI internals, having fun revisiting express, and casting some state management spells with Redux. Let's make documentation fun. 📚✨
+
 
 [valonintech.dev](https://valonintech.dev)
 
