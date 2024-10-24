@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-🛠 **Current Project: jbook** - Working on a cool multi-package developer tool called jbook. It's all about tying together a CLI, local API, and a React-based client app to simplify code documentation. I'm getting my hands dirty with CLI internals, having fun revisiting express, and casting some state management spells with Redux. Let's make documentation fun. 📚✨
-
+🛠 **Current Project: side-quest** - Working on an RPG themed task manager. Don't get any time to do any gaming so hoping to get some good-old nostalgia from hacking on this.
 
 [valonintech.dev](https://valonintech.dev)
 
