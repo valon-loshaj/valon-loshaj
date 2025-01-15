@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 ## 🛠 Current Projects: 
+- **create-sf-app** - A one-stop-shop CLI tool for setting up new or existing Salesforce applications with modern development tooling and best practices.
 - **side-quest** - Working on an RPG themed task manager. Don't get any time to do any gaming so hoping to get some good-old nostalgia from hacking on this.
 - **utter-sense** - A real-time intelligence tool that listens to voice calls, using cutting-edge vector search to match agent conversations with relevant knowledge articles. Empower agents with instant, context-aware recommendations and streamline support workflows for smarter, faster resolutions.
 
